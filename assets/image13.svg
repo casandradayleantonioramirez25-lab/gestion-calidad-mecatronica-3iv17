@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 261" role="img" aria-labelledby="title desc">
+  <title id="title">Sopa de conceptos de calidad</title><desc id="desc">Sopa de letras con palabras relacionadas con la gestión de la calidad</desc>
+  <rect width="260" height="261" fill="#fff"/>
+  <text x="130" y="16" text-anchor="middle" fill="#b93b2e" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1">SOPA DE CONCEPTOS</text>
+  <g fill="#193330" font-family="monospace" font-size="9" text-anchor="middle">
+    <text x="130" y="35">G E S T I O N D E L A S R E L A C I O N E S</text>
+    <text x="130" y="52">N W B C V R D V G E T T J S S P F V I E E L S</text>
+    <text x="130" y="69">E Q P A R T I C I P A C I O N X U A Z P W P</text>
+    <text x="130" y="86">J X M E J O R A C D B Q O F R Q W E A L E R</text>
+    <text x="130" y="103">O P Q V L I D E R A Z G O H K C A R L O A T</text>
+    <text x="130" y="120">Q C F O Q U E A L C L I E N T E Y M O R E S</text>
+    <text x="130" y="137">P R O C E S O S D A T O S H E C H O S N S A</text>
+    <text x="130" y="154">A X D M C L I E N T E R E Q U I S I T O S T</text>
+    <text x="130" y="171">R E G I S T R O S P R U E B A S I S O N O C</text>
+    <text x="130" y="188">T R A B A J O E N E Q U I P O Q U A L I D A D</text>
+    <text x="130" y="205">I N S P E C C I O N M E D I C I O N O S V A</text>
+    <text x="130" y="222">C O N T I N U A M E J O R A R P L A N E A R</text>
+    <text x="130" y="239">I D E A S P R O V E E D O R C L I E N T E S</text>
+  </g>
+  <rect x="8" y="25" width="244" height="222" fill="none" stroke="#d3a34a" stroke-width="1"/>
+</svg>

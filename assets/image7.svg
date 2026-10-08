@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 92" role="img" aria-labelledby="title desc">
+  <title id="title">Escudo del CECyT No. 2</title><desc id="desc">Representación estilizada del Centro de Estudios Científicos y Tecnológicos No. 2</desc>
+  <path d="M36 4 68 16v28c0 20-13 34-32 44C17 78 4 64 4 44V16L36 4Z" fill="#fffdf8" stroke="#16685f" stroke-width="3"/>
+  <path d="M36 15v59M17 29h38M13 46h46M18 62h36" stroke="#16685f" stroke-width="2"/>
+  <text x="36" y="43" text-anchor="middle" fill="#16685f" font-family="Arial,sans-serif" font-size="11" font-weight="800">CECyT</text>
+  <text x="36" y="56" text-anchor="middle" fill="#b93b2e" font-family="Arial,sans-serif" font-size="8" font-weight="800">No. 2</text>
+</svg>
